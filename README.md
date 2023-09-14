@@ -1,4 +1,4 @@
-# 💫 About Me:
+# HI
 I am<br>Arya Parolia,<br>a final year Engineering student and am highly passionate about Coding <br>Problems and competitive programming.<br><br>
 
 
